@@ -5,3 +5,6 @@
 - Servlet
 - JSP
 - DB(MySQL)
+
+## 更新
+- j_security_checkを使ったログイン機能実装
